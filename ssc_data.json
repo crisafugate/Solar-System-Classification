@@ -1,0 +1,37 @@
+[{"name":"Mercury", "orbits":"sun", "min_dist":0.31, "max_dist":0.466, "diameter":4879, "mass":0.33011, "shape":"round"},
+{"name":"Venus", "orbits":"sun", "min_dist":0.71843, "max_dist":0.728, "diameter":12104, "mass":4.8675, "shape":"round"},
+ {"name":"Earth", "orbits":"sun", "min_dist":0.98, "max_dist":1.01, "diameter":12756, "mass":5.97, "shape":"round"},
+ {"name":"Mars", "orbits":"sun", "min_dist":1.3814, "max_dist":1.66, "diameter":6792, "mass":0.642, "shape":"round"},
+ {"name":"Jupiter", "orbits":"sun", "min_dist":4.95, "max_dist":5.48, "diameter":142984, "mass":1898, "shape":"round"},
+{"name":"Saturn", "orbits":"sun", "min_dist":9.195, "max_dist":10.12, "diameter":120536, "mass":568, "shape":"round"},
+{"name":"Uranus", "orbits":"sun", "min_dist":18.28, "max_dist":20.1, "diameter":51118, "mass":86.8, "shape":"round"},
+{"name":"Neptune", "orbits":"sun", "min_dist":29.81, "max_dist":30.4, "diameter":49528, "mass":102, "shape":"round"},
+{"name":"Pluto", "orbits":"sun", "min_dist":29.7, "max_dist":49.3, "diameter":2376, "mass":0.013, "shape":"round"},
+{"name":"Moon", "orbits":"Earth", "min_dist":363104, "max_dist":405696, "diameter":3475, "mass":0.073, "shape":"round"},
+{"name":"Phobos", "orbits":"Mars", "min_dist":9234.42, "max_dist":9517.58, "diameter":22, "mass":0.0000000106, "shape":""},
+ {"name":"Charon", "orbits":"Pluto", "min_dist":19592.61, "max_dist":19598.92, "diameter":1212, "mass":0.0015897, "shape":"round"},
+{"name":"Callisto", "orbits":"Jupiter", "min_dist":1869000, "max_dist":1897000, "diameter":4821, "mass":0.1075938, "shape":"round"},
+{"name":"Europa", "orbits":"Jupiter", "min_dist":664862, "max_dist":676938, "diameter":3100, "mass":0.0479984, "shape":"round"},
+{"name":"Ganymede", "orbits":"Jupiter", "min_dist":1069200, "max_dist":1071600, "diameter":3270, "mass":0.14819, "shape":"round"},
+{"name":"Oberon", "orbits":"Uranus", "min_dist":584000, "max_dist":584000, "diameter":583.5, "mass":0.0031104, "shape":"round"},
+{"name":"Ceres", "orbits":"sun", "min_dist":2.55, "max_dist":2.98, "diameter":939, "mass":0.00093839, "shape":"round"},
+{"name":"Juno", "orbits":"sun", "min_dist":1.99, "max_dist":3.35, "diameter":234, "mass":0.0000267, "shape":"irregular"},
+{"name":"Eros", "orbits":"sun", "min_dist":1.13, "max_dist":1.78, "diameter":10, "mass":0.000000006687, "shape":"irregular"},
+ {"name":"Temple-1", "orbits":"sun", "min_dist":1.77, "max_dist":4.757, "diameter":6, "mass":7.9E-11, "shape":"irregular"},
+{"name":"118p/Shoemaker-Levy", "orbits":"sun", "min_dist":1.83, "max_dist":4.943, "diameter":4.8, "mass":0, "shape":"irregular"},
+ {"name":"Halley", "orbits":"sun", "min_dist":0.59278, "max_dist":35, "diameter":11, "mass":2.2E-10, "shape":"irregular"},
+{"name":"Hale-Bopp", "orbits":"sun", "min_dist":0.914, "max_dist":354, "diameter":60, "mass":0.000013, "shape":"irregular"},
+{"name":"Swift-Tuttle", "orbits":"sun", "min_dist":0.9595, "max_dist":51.225, "diameter":26, "mass":0.0000000092, "shape":"irregular"},
+{"name":"Makemake", "orbits":"sun", "min_dist":38.4, "max_dist":53, "diameter":1430, "mass":0.0031, "shape":"round"},
+{"name":"Eris", "orbits":"sun", "min_dist":38, "max_dist":97.5, "diameter":2326, "mass":0.01638, "shape":"round"},
+ {"name":"Huamea", "orbits":"sun", "min_dist":35, "max_dist":52, "diameter":1632, "mass":0.004, "shape":"round"},
+ {"name":"Quaoar", "orbits":"sun", "min_dist":41.7, "max_dist":45, "diameter":900, "mass":0.0014, "shape":"round"},
+{"name":"Gonggong", "orbits":"sun", "min_dist":33, "max_dist":101, "diameter":1230, "mass":0.00175, "shape":"round"}]
+
+ 
+
+
+ 
+
+ 
+ 
